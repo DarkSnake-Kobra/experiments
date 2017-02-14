@@ -1,0 +1,8 @@
+# ignore build and other local directories
+node_modules
+
+
+# ignore backup files
+*~
+*.~
+*.swp
