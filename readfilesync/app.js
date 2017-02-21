@@ -4,7 +4,7 @@ var path;
 
 function readConfig()
 {
-    path =__dirname + "\\"+ "data" + "\\" + "test.conf";
+    path =__dirname + "\\" + "data" + "\\"+ test.conf";
     log();
     temp();
 }
